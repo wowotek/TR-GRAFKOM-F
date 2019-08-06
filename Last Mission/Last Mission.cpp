@@ -1,5 +1,6 @@
 #include <gl/glut.h>
 #include <windows.h>
+#include "Tampil.hpp"
 
 
 bool mouseDown = false;
